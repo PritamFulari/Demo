@@ -1,0 +1,6 @@
+# Exlude the directory
+/Styles
+
+# Exlude the file
+app.html
+
